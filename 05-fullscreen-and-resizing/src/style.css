@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #141414;
+    overflow: hidden;
+}
+
+.webgl{
+    position: fixed;
+    left: 0;
+    top: 0;
+    outline: none;
+}
